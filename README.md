@@ -36,6 +36,7 @@
   <li>Run the <code>main.py</code> file.</li>
 </ol>
 
+<h2>🖼️ Screenshots</h2>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="imagenes/PRESENTACION-JUEGO/imagen-1.jpg" alt="Logo Land screenshot 1" style="width: 200px; height: auto; border-radius: 8px;">
   <img src="imagenes/PRESENTACION-JUEGO/imagen-2.jpg" alt="Logo Land screenshot 2" style="width: 200px; height: auto; border-radius: 8px;">
