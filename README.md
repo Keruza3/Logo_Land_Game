@@ -1,63 +1,61 @@
 <h1>🎮 LOGO LAND</h1>
 
-<p><strong>LOGO LAND</strong> es un juego desarrollado con <code>pygame</code> en el que deberás poner a prueba tus conocimientos sobre marcas reconocidas. 
+<p><strong>LOGO LAND</strong> is a game developed with <code>pygame</code> where you’ll put your knowledge of well-known brands to the test.</p>
 
-<h2>🕹️ ¿Cómo se juega?</h2>
+<h2>🕹️ How to Play</h2>
 <ul>
-  <li>Se te mostrarán varios logos por ronda.</li>
-  <li>Tu misión es hacer clic en el logo correcto 10 veces para ganar.</li>
-  <li>Tienes <strong>30 segundos</strong> por logo y <strong>5 vidas</strong> por partida.</li>
-  <li>Acumula puntos por cada acierto.</li>
+  <li>You will be shown several logos per round.</li>
+  <li>Your mission is to click the correct logo 10 times to win.</li>
+  <li>You have <strong>30 seconds</strong> per logo and <strong>5 lives</strong> per game.</li>
+  <li>Earn points for each correct answer.</li>
 </ul>
 
-<h2>🧭 Sala de espera</h2>
-<p>Antes de comenzar tu partida, pasarás por la <strong>sala de espera</strong>, donde puedes:</p>
+<h2>🧭 Waiting Room</h2>
+<p>Before starting your game, you’ll pass through the <strong>waiting room</strong>, where you can:</p>
 <ul>
-  <li>🧍‍♂️ Elegir <strong>skins</strong> para personalizar tu experiencia de juego.</li>
-  <li>📈 Ver tu <strong>puntaje actual</strong> de la última partida.</li>
-  <li>🌍 Consultar el <strong>puntaje global</strong> (tu mejor puntaje guardado).</li>
-  <li>🗑️ Usar la opción de <strong>eliminar partida</strong> para reiniciar tu progreso.</li>
+  <li>🧍‍♂️ Choose <strong>skins</strong> to customize your gameplay experience.</li>
+  <li>📈 See your <strong>current score</strong> from the last match.</li>
+  <li>🌍 Check your <strong>global score</strong> (your best saved score).</li>
+  <li>🗑️ Use the <strong>delete save</strong> option to reset your progress.</li>
 </ul>
 
-<h2>⚙️ Requisitos</h2>
+<h2>⚙️ Requirements</h2>
 <ul>
-  <li>Python (versión 3.7 o superior)</li>
-  <li>Librería <code>pygame</code></li>
+  <li>Python (version 3.7 or higher)</li>
+  <li><code>pygame</code> library</li>
 </ul>
 
-<h2>🚀 Instalación y ejecución</h2>
+<h2>🚀 Installation and Execution</h2>
 <ol>
-  <li>Instala <a href="https://www.python.org/downloads/" target="_blank">Python</a> y <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>.</li>
-  <li>Clona este repositorio:</li>
+  <li>Install <a href="https://www.python.org/downloads/" target="_blank">Python</a> and <a href="https://code.visualstudio.com/" target="_blank">Visual Studio Code</a>.</li>
+  <li>Clone this repository:</li>
   <pre><code>git clone https://github.com/Keruza3/Logo_Land_Game.git</code></pre>
-  <li>Abre la carpeta del proyecto en Visual Studio Code.</li>
-  <li>Instala las dependencias necesarias:</li>
+  <li>Open the project folder in Visual Studio Code.</li>
+  <li>Install the required dependencies:</li>
   <pre><code>pip install pygame</code></pre>
-  <li>Ejecuta el archivo <code>main.py</code>.</li>
+  <li>Run the <code>main.py</code> file.</li>
 </ol>
 
-<h2>🖼️ Capturas de pantalla</h2>
-<!-- Aquí puedes insertar imágenes con la etiqueta <img src="ruta" alt="Descripción"> -->
-<p>Próximamente...</p>
+<p>Coming soon...</p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-1.jpg" alt="Logo Land captura 1" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-2.jpg" alt="Logo Land captura 2" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-3.jpg" alt="Logo Land captura 3" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-4.jpg" alt="Logo Land captura 4" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-5.jpg" alt="Logo Land captura 5" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-6.jpg" alt="Logo Land captura 6" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-7.jpg" alt="Logo Land captura 7" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="imagenes/PRESENTACION-JUEGO/imagen-8.jpg" alt="Logo Land captura 8" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-1.jpg" alt="Logo Land screenshot 1" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-2.jpg" alt="Logo Land screenshot 2" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-3.jpg" alt="Logo Land screenshot 3" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-4.jpg" alt="Logo Land screenshot 4" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-5.jpg" alt="Logo Land screenshot 5" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-6.jpg" alt="Logo Land screenshot 6" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-7.jpg" alt="Logo Land screenshot 7" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-8.jpg" alt="Logo Land screenshot 8" style="width: 200px; height: auto; border-radius: 8px;">
 </div>
 
-<h2>📄 Licencia</h2>
+<h2>📄 License</h2>
 <p>
-  Este proyecto fue desarrollado por <strong>Keruza3</strong> y <strong>MatiVargados</strong>. Está disponible para que cualquier persona lo disfrute, use y mejore, pero <strong>los beneficios comerciales del juego solo podrán ser obtenidos por sus creadores originales</strong>.
+  This project was developed by <strong>Keruza3</strong> and <strong>MatiVargados</strong>. It is available for everyone to enjoy, use, and improve, but <strong>commercial benefits from this game can only be obtained by its original creators</strong>.
 </p>
 <p>
-  Queda prohibida la venta, monetización o distribución con fines de lucro por terceros sin autorización expresa de los autores.
+  Selling, monetizing, or distributing this project for profit without explicit permission from the authors is strictly prohibited.
 </p>
 
-<h2>👥 Créditos</h2>
-<p>Desarrollado por Keruza3 & MatiVargados.</p>
+<h2>👥 Credits</h2>
+<p>Developed by Keruza3 & MatiVargados.</p>
 
