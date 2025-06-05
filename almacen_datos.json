@@ -3,5 +3,8 @@
                            ["Partida_3", "Partida_4"]],
 
     "puntaje": [[0,0],
-                [0,0]]
+                [0,0]],
+
+    "skins": [["imagenes\\personaje_1.png", "imagenes\\personaje_1.png"],
+               ["imagenes\\personaje_1.png", "imagenes\\personaje_1.png"]]
 }
