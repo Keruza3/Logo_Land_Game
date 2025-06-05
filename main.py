@@ -24,6 +24,7 @@ if ventana != None:
             nombre_partida == "Partida_3" or 
             nombre_partida == "Partida_4"):
 
+<<<<<<< HEAD
             pantalla_seleccion_perosnaje = mostrar_pantalla_seleccionar_skin(ventana)
 
             if pantalla_seleccion_perosnaje != None:
@@ -126,3 +127,12 @@ if ventana != None:
 
                     case None:
                         break
+=======
+            pantalla_nombre = pantalla_ingresar_nombre(ventana)
+            if pantalla_nombre != None:
+
+                ventana = pantalla_nombre[0]
+                nombre_nuevo_partida = pantalla_nombre[1]
+
+        # pantalla_juego()
+>>>>>>> 47e5a61ad16c709d6d5c96df1fe7d21efa5c3261
