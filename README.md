@@ -40,14 +40,14 @@
 <!-- Aquí puedes insertar imágenes con la etiqueta <img src="ruta" alt="Descripción"> -->
 <p>Próximamente...</p>
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="RUTA_1" alt="Logo Land captura 1" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="RUTA_2" alt="Logo Land captura 2" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="RUTA_3" alt="Logo Land captura 3" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="RUTA_4" alt="Logo Land captura 4" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="RUTA_5" alt="Logo Land captura 5" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="RUTA_6" alt="Logo Land captura 6" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="RUTA_7" alt="Logo Land captura 7" style="width: 200px; height: auto; border-radius: 8px;">
-  <img src="RUTA_8" alt="Logo Land captura 8" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-1.jpg" alt="Logo Land captura 1" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-2.jpg" alt="Logo Land captura 2" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-3.jpg" alt="Logo Land captura 3" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-4.jpg" alt="Logo Land captura 4" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-5.jpg" alt="Logo Land captura 5" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-6.jpg" alt="Logo Land captura 6" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-7.jpg" alt="Logo Land captura 7" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="imagenes/PRESENTACION-JUEGO/imagen-8.jpg" alt="Logo Land captura 8" style="width: 200px; height: auto; border-radius: 8px;">
 </div>
 
 <h2>📄 Licencia</h2>
