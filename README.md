@@ -10,6 +10,15 @@
   <li>Acumula puntos por cada acierto.</li>
 </ul>
 
+<h2>🧭 Sala de espera</h2>
+<p>Antes de comenzar tu partida, pasarás por la <strong>sala de espera</strong>, donde puedes:</p>
+<ul>
+  <li>🧍‍♂️ Elegir <strong>skins</strong> para personalizar tu experiencia de juego.</li>
+  <li>📈 Ver tu <strong>puntaje actual</strong> de la última partida.</li>
+  <li>🌍 Consultar el <strong>puntaje global</strong> (tu mejor puntaje guardado).</li>
+  <li>🗑️ Usar la opción de <strong>eliminar partida</strong> para reiniciar tu progreso.</li>
+</ul>
+
 <h2>⚙️ Requisitos</h2>
 <ul>
   <li>Python (versión 3.7 o superior)</li>
@@ -30,7 +39,16 @@
 <h2>🖼️ Capturas de pantalla</h2>
 <!-- Aquí puedes insertar imágenes con la etiqueta <img src="ruta" alt="Descripción"> -->
 <p>Próximamente...</p>
-<img src="" alt="Capturas del juego" style="width: 400px">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="RUTA_1" alt="Logo Land captura 1" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="RUTA_2" alt="Logo Land captura 2" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="RUTA_3" alt="Logo Land captura 3" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="RUTA_4" alt="Logo Land captura 4" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="RUTA_5" alt="Logo Land captura 5" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="RUTA_6" alt="Logo Land captura 6" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="RUTA_7" alt="Logo Land captura 7" style="width: 200px; height: auto; border-radius: 8px;">
+  <img src="RUTA_8" alt="Logo Land captura 8" style="width: 200px; height: auto; border-radius: 8px;">
+</div>
 
 <h2>📄 Licencia</h2>
 <p>
